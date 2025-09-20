@@ -1,73 +1,37 @@
-# Welcome to your Lovable project
+Movie Reviews Webpage 🎬
 
-## Project info
+This is a simple web app I built to explore how a modern frontend stack can be used to display and organize movie reviews. The main idea is to give a clean and interactive way to browse movies, check their ratings, and read short summaries.
 
-**URL**: https://lovable.dev/projects/3dd2a036-aced-4ceb-863a-d32f1fa06202
+What It Does
 
-## How can I edit this code?
+Shows a collection of movies in a neat layout
 
-There are several ways of editing your application.
+Lets you explore reviews, ratings, and details
 
-**Use Lovable**
+Designed to be simple, responsive, and easy to extend
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3dd2a036-aced-4ceb-863a-d32f1fa06202) and start prompting.
+Tech Behind It
 
-Changes made via Lovable will be committed automatically to this repo.
+React for building the interface
 
-**Use your preferred IDE**
+TypeScript for cleaner and safer code
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Vite to keep development fast and smooth
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Tailwind CSS for styling and layouts
 
-Follow these steps:
+Future Ideas
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Some features I’d like to add later:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+A real backend so users can add their own reviews
 
-# Step 3: Install the necessary dependencies.
-npm i
+Login and signup for personalization
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Filters like rating, genre, or release year
 
-**Edit a file directly in GitHub**
+Dark mode support
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Why I Built This
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3dd2a036-aced-4ceb-863a-d32f1fa06202) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Mainly to practice and learn — but also because movie reviews are fun to work with. It’s a small step toward building bigger, real-world web applications.
